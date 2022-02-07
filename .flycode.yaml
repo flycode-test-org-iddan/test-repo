@@ -7,5 +7,5 @@ apps:
   - name: test-repo
     path: ""
     text-resources:
-      - path: src/lang/en-US.json
+      - path: src/lang/*.json
         format: simple-value-value
