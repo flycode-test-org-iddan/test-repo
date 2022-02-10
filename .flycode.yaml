@@ -7,5 +7,5 @@ apps:
   - name: Product Demo
     path: ""
     text-resources:
-      - path: src/lang/*.json
+      - path: src/lang/en-US.json
         format: simple-value-value
