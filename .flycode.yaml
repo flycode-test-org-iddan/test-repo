@@ -5,7 +5,7 @@ environments:
     mode: pull-request
 apps:
   - name: test-repo
-    path: src/
+    path: ""
     text-resources:
-      - path: lang/*.json
+      - path: src/lang*.json
         format: flat-key-value
