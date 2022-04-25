@@ -8,4 +8,4 @@ apps:
     path: ""
     text-resources:
       - path: src/lang/*.json
-        format: flat-key-value
+        format: nested-key-value
