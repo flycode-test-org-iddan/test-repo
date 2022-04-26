@@ -9,7 +9,7 @@
     "app.action.save_changes": "Guardar cambios",
     "app.create_object": "Crear objeto",
     "app.date": "{{date, dd MMM, yyyy}}",
-    "app.no_resource": "Todavía no hay objetos aquí.",
+    "app.no_resource": "Todavía no hay objetos aquí. Test",
     "Billing": "Facturación",
     "Blank Page": "Paginas en Blanco",
     "Buttons": "Botones",
